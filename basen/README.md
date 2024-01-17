@@ -1,6 +1,5 @@
-# Poezie
-Nic zajimaveho tady neni
-*ano*
--vzdy
-- mozna 
-- ne
+# Licence CC
+Nemam zadna sva prava
+-Pouzij jak ches
+-Nevis jestli souhlasim s tvym pouzitim
+-Nemam zodpovednost
