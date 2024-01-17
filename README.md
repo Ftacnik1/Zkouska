@@ -4,3 +4,5 @@ Nic zajimaveho tady neni
 -vzdy
 - mozna 
 - ne
+
+CC Muzes si s tim delat co ches ale je to k nicemu
